@@ -1,0 +1,1153 @@
+The scientific objective of geodesy is to determine the size and shape of
+the Earth. The practical role of geodesy is to provide a network of accurately
+surveyed points on the Earth’s surface, the vertical elevations and geographic
+positions of which are precisely known and, in turn, may be incorporated in
+maps. When two geographic coordinates of a control point on the Earth’s
+surface, its latitude and longitude, are known as well as its elevation above
+sea level, the location of that point is known with accuracy within the limits
+of error involved in the surveying processes. In mapping large areas, such as
+a whole state or country, the irregularities in the curvature of the Earth must
+be considered. A network of precisely surveyed control points provides a
+skeleton to which other surveys may be tied to provide progressively finer
+networks of more closely space points. The resulting networks of points have
+many uses, including anchor points or bench marks for surveys of highways
+and other civil features. A major use of control points is to provide reference
+points to which the contour lines and other features of topographic maps are
+tied. Most topographic maps are made using photogrammetric techniques
+and aerial photographs.
+The Earth’s figure is that of a surface called the geoid, which over the
+Earth is the average sea level at each location; under the continents the geoid
+is an imaginary continuation of sea level. The geoid is not a uniform spheroid,
+however, because of the existence of irregularities in the attraction of gravity
+from place to place on the Earth’s surface. These irregularities of the geoid
+would bring about serious errors in the surveyed location of control points
+if astronomical methods, which involve use of the local horizon, were used
+solely in determining locations. Because of these irregularities, the reference
+surface used in geodesy is that of a regular mathematical surface, an ellipsoid
+of revolution that fits the geoid as closely as possible. This reference ellipsoid
+is below the geoid in some places and above it in the others. Over the oceans,
+mean sea level defines the geoid surface, but over the land areas the geoid is
+an imaginary sea-level surface.
+Today perturbations in the motions of artificial satellites are used to
+define the global geoid and gravity pattern with a high degree of accuracy.
+Geodetic satellites are positioned at a height of 700-800 kilometers above
+the Earth. Simultaneous range observations from several laser stations fix the
+position of a satellite, and radar altimeters measure directly its height over
+the oceans. Results show that the geoid is irregular; in places its surface is
+up to 100 metres higher than the ideal reference ellipsoid and elsewhere it is
+as much as 100 metres below it. The most likely explanation for this height
+4
+variation is that the gravity (and density) anomalies are related to mantle
+convection and temperature differences at depth. An important observation
+that confirms this interpretation is that there is a close correlation between the
+gravity anomalies and the surface expression of the Earth’s plate boundaries.
+This also strengthens the idea that the ultimate driving force of tectonic plate
+is a large-scale circulation of the mantle.
+A similar satellite ranging technique is also used to determine the drift
+rates of continents. Repeated measurements of laser light travel times between
+ground stations and satellites permit the relative movement of different control
+blocks to be calculatedThe scientific objective of geodesy is to determine the size and shape of
+the Earth. The practical role of geodesy is to provide a network of accurately
+surveyed points on the Earth’s surface, the vertical elevations and geographic
+positions of which are precisely known and, in turn, may be incorporated in
+maps. When two geographic coordinates of a control point on the Earth’s
+surface, its latitude and longitude, are known as well as its elevation above
+sea level, the location of that point is known with accuracy within the limits
+of error involved in the surveying processes. In mapping large areas, such as
+a whole state or country, the irregularities in the curvature of the Earth must
+be considered. A network of precisely surveyed control points provides a
+skeleton to which other surveys may be tied to provide progressively finer
+networks of more closely space points. The resulting networks of points have
+many uses, including anchor points or bench marks for surveys of highways
+and other civil features. A major use of control points is to provide reference
+points to which the contour lines and other features of topographic maps are
+tied. Most topographic maps are made using photogrammetric techniques
+and aerial photographs.
+The Earth’s figure is that of a surface called the geoid, which over the
+Earth is the average sea level at each location; under the continents the geoid
+is an imaginary continuation of sea level. The geoid is not a uniform spheroid,
+however, because of the existence of irregularities in the attraction of gravity
+from place to place on the Earth’s surface. These irregularities of the geoid
+would bring about serious errors in the surveyed location of control points
+if astronomical methods, which involve use of the local horizon, were used
+solely in determining locations. Because of these irregularities, the reference
+surface used in geodesy is that of a regular mathematical surface, an ellipsoid
+of revolution that fits the geoid as closely as possible. This reference ellipsoid
+is below the geoid in some places and above it in the others. Over the oceans,
+mean sea level defines the geoid surface, but over the land areas the geoid is
+an imaginary sea-level surface.
+Today perturbations in the motions of artificial satellites are used to
+define the global geoid and gravity pattern with a high degree of accuracy.
+Geodetic satellites are positioned at a height of 700-800 kilometers above
+the Earth. Simultaneous range observations from several laser stations fix the
+position of a satellite, and radar altimeters measure directly its height over
+the oceans. Results show that the geoid is irregular; in places its surface is
+up to 100 metres higher than the ideal reference ellipsoid and elsewhere it is
+as much as 100 metres below it. The most likely explanation for this height
+4
+variation is that the gravity (and density) anomalies are related to mantle
+convection and temperature differences at depth. An important observation
+that confirms this interpretation is that there is a close correlation between the
+gravity anomalies and the surface expression of the Earth’s plate boundaries.
+This also strengthens the idea that the ultimate driving force of tectonic plate
+is a large-scale circulation of the mantle.
+A similar satellite ranging technique is also used to determine the drift
+rates of continents. Repeated measurements of laser light travel times between
+ground stations and satellites permit the relative movement of different control
+blocks to be calculatedThe scientific objective of geodesy is to determine the size and shape of
+the Earth. The practical role of geodesy is to provide a network of accurately
+surveyed points on the Earth’s surface, the vertical elevations and geographic
+positions of which are precisely known and, in turn, may be incorporated in
+maps. When two geographic coordinates of a control point on the Earth’s
+surface, its latitude and longitude, are known as well as its elevation above
+sea level, the location of that point is known with accuracy within the limits
+of error involved in the surveying processes. In mapping large areas, such as
+a whole state or country, the irregularities in the curvature of the Earth must
+be considered. A network of precisely surveyed control points provides a
+skeleton to which other surveys may be tied to provide progressively finer
+networks of more closely space points. The resulting networks of points have
+many uses, including anchor points or bench marks for surveys of highways
+and other civil features. A major use of control points is to provide reference
+points to which the contour lines and other features of topographic maps are
+tied. Most topographic maps are made using photogrammetric techniques
+and aerial photographs.
+The Earth’s figure is that of a surface called the geoid, which over the
+Earth is the average sea level at each location; under the continents the geoid
+is an imaginary continuation of sea level. The geoid is not a uniform spheroid,
+however, because of the existence of irregularities in the attraction of gravity
+from place to place on the Earth’s surface. These irregularities of the geoid
+would bring about serious errors in the surveyed location of control points
+if astronomical methods, which involve use of the local horizon, were used
+solely in determining locations. Because of these irregularities, the reference
+surface used in geodesy is that of a regular mathematical surface, an ellipsoid
+of revolution that fits the geoid as closely as possible. This reference ellipsoid
+is below the geoid in some places and above it in the others. Over the oceans,
+mean sea level defines the geoid surface, but over the land areas the geoid is
+an imaginary sea-level surface.
+Today perturbations in the motions of artificial satellites are used to
+define the global geoid and gravity pattern with a high degree of accuracy.
+Geodetic satellites are positioned at a height of 700-800 kilometers above
+the Earth. Simultaneous range observations from several laser stations fix the
+position of a satellite, and radar altimeters measure directly its height over
+the oceans. Results show that the geoid is irregular; in places its surface is
+up to 100 metres higher than the ideal reference ellipsoid and elsewhere it is
+as much as 100 metres below it. The most likely explanation for this height
+4
+variation is that the gravity (and density) anomalies are related to mantle
+convection and temperature differences at depth. An important observation
+that confirms this interpretation is that there is a close correlation between the
+gravity anomalies and the surface expression of the Earth’s plate boundaries.
+This also strengthens the idea that the ultimate driving force of tectonic plate
+is a large-scale circulation of the mantle.
+A similar satellite ranging technique is also used to determine the drift
+rates of continents. Repeated measurements of laser light travel times between
+ground stations and satellites permit the relative movement of different control
+blocks to be calculatedThe scientific objective of geodesy is to determine the size and shape of
+the Earth. The practical role of geodesy is to provide a network of accurately
+surveyed points on the Earth’s surface, the vertical elevations and geographic
+positions of which are precisely known and, in turn, may be incorporated in
+maps. When two geographic coordinates of a control point on the Earth’s
+surface, its latitude and longitude, are known as well as its elevation above
+sea level, the location of that point is known with accuracy within the limits
+of error involved in the surveying processes. In mapping large areas, such as
+a whole state or country, the irregularities in the curvature of the Earth must
+be considered. A network of precisely surveyed control points provides a
+skeleton to which other surveys may be tied to provide progressively finer
+networks of more closely space points. The resulting networks of points have
+many uses, including anchor points or bench marks for surveys of highways
+and other civil features. A major use of control points is to provide reference
+points to which the contour lines and other features of topographic maps are
+tied. Most topographic maps are made using photogrammetric techniques
+and aerial photographs.
+The Earth’s figure is that of a surface called the geoid, which over the
+Earth is the average sea level at each location; under the continents the geoid
+is an imaginary continuation of sea level. The geoid is not a uniform spheroid,
+however, because of the existence of irregularities in the attraction of gravity
+from place to place on the Earth’s surface. These irregularities of the geoid
+would bring about serious errors in the surveyed location of control points
+if astronomical methods, which involve use of the local horizon, were used
+solely in determining locations. Because of these irregularities, the reference
+surface used in geodesy is that of a regular mathematical surface, an ellipsoid
+of revolution that fits the geoid as closely as possible. This reference ellipsoid
+is below the geoid in some places and above it in the others. Over the oceans,
+mean sea level defines the geoid surface, but over the land areas the geoid is
+an imaginary sea-level surface.
+Today perturbations in the motions of artificial satellites are used to
+define the global geoid and gravity pattern with a high degree of accuracy.
+Geodetic satellites are positioned at a height of 700-800 kilometers above
+the Earth. Simultaneous range observations from several laser stations fix the
+position of a satellite, and radar altimeters measure directly its height over
+the oceans. Results show that the geoid is irregular; in places its surface is
+up to 100 metres higher than the ideal reference ellipsoid and elsewhere it is
+as much as 100 metres below it. The most likely explanation for this height
+4
+variation is that the gravity (and density) anomalies are related to mantle
+convection and temperature differences at depth. An important observation
+that confirms this interpretation is that there is a close correlation between the
+gravity anomalies and the surface expression of the Earth’s plate boundaries.
+This also strengthens the idea that the ultimate driving force of tectonic plate
+is a large-scale circulation of the mantle.
+A similar satellite ranging technique is also used to determine the drift
+rates of continents. Repeated measurements of laser light travel times between
+ground stations and satellites permit the relative movement of different control
+blocks to be calculatedThe scientific objective of geodesy is to determine the size and shape of
+the Earth. The practical role of geodesy is to provide a network of accurately
+surveyed points on the Earth’s surface, the vertical elevations and geographic
+positions of which are precisely known and, in turn, may be incorporated in
+maps. When two geographic coordinates of a control point on the Earth’s
+surface, its latitude and longitude, are known as well as its elevation above
+sea level, the location of that point is known with accuracy within the limits
+of error involved in the surveying processes. In mapping large areas, such as
+a whole state or country, the irregularities in the curvature of the Earth must
+be considered. A network of precisely surveyed control points provides a
+skeleton to which other surveys may be tied to provide progressively finer
+networks of more closely space points. The resulting networks of points have
+many uses, including anchor points or bench marks for surveys of highways
+and other civil features. A major use of control points is to provide reference
+points to which the contour lines and other features of topographic maps are
+tied. Most topographic maps are made using photogrammetric techniques
+and aerial photographs.
+The Earth’s figure is that of a surface called the geoid, which over the
+Earth is the average sea level at each location; under the continents the geoid
+is an imaginary continuation of sea level. The geoid is not a uniform spheroid,
+however, because of the existence of irregularities in the attraction of gravity
+from place to place on the Earth’s surface. These irregularities of the geoid
+would bring about serious errors in the surveyed location of control points
+if astronomical methods, which involve use of the local horizon, were used
+solely in determining locations. Because of these irregularities, the reference
+surface used in geodesy is that of a regular mathematical surface, an ellipsoid
+of revolution that fits the geoid as closely as possible. This reference ellipsoid
+is below the geoid in some places and above it in the others. Over the oceans,
+mean sea level defines the geoid surface, but over the land areas the geoid is
+an imaginary sea-level surface.
+Today perturbations in the motions of artificial satellites are used to
+define the global geoid and gravity pattern with a high degree of accuracy.
+Geodetic satellites are positioned at a height of 700-800 kilometers above
+the Earth. Simultaneous range observations from several laser stations fix the
+position of a satellite, and radar altimeters measure directly its height over
+the oceans. Results show that the geoid is irregular; in places its surface is
+up to 100 metres higher than the ideal reference ellipsoid and elsewhere it is
+as much as 100 metres below it. The most likely explanation for this height
+4
+variation is that the gravity (and density) anomalies are related to mantle
+convection and temperature differences at depth. An important observation
+that confirms this interpretation is that there is a close correlation between the
+gravity anomalies and the surface expression of the Earth’s plate boundaries.
+This also strengthens the idea that the ultimate driving force of tectonic plate
+is a large-scale circulation of the mantle.
+A similar satellite ranging technique is also used to determine the drift
+rates of continents. Repeated measurements of laser light travel times between
+ground stations and satellites permit the relative movement of different control
+blocks to be calculatedThe scientific objective of geodesy is to determine the size and shape of
+the Earth. The practical role of geodesy is to provide a network of accurately
+surveyed points on the Earth’s surface, the vertical elevations and geographic
+positions of which are precisely known and, in turn, may be incorporated in
+maps. When two geographic coordinates of a control point on the Earth’s
+surface, its latitude and longitude, are known as well as its elevation above
+sea level, the location of that point is known with accuracy within the limits
+of error involved in the surveying processes. In mapping large areas, such as
+a whole state or country, the irregularities in the curvature of the Earth must
+be considered. A network of precisely surveyed control points provides a
+skeleton to which other surveys may be tied to provide progressively finer
+networks of more closely space points. The resulting networks of points have
+many uses, including anchor points or bench marks for surveys of highways
+and other civil features. A major use of control points is to provide reference
+points to which the contour lines and other features of topographic maps are
+tied. Most topographic maps are made using photogrammetric techniques
+and aerial photographs.
+The Earth’s figure is that of a surface called the geoid, which over the
+Earth is the average sea level at each location; under the continents the geoid
+is an imaginary continuation of sea level. The geoid is not a uniform spheroid,
+however, because of the existence of irregularities in the attraction of gravity
+from place to place on the Earth’s surface. These irregularities of the geoid
+would bring about serious errors in the surveyed location of control points
+if astronomical methods, which involve use of the local horizon, were used
+solely in determining locations. Because of these irregularities, the reference
+surface used in geodesy is that of a regular mathematical surface, an ellipsoid
+of revolution that fits the geoid as closely as possible. This reference ellipsoid
+is below the geoid in some places and above it in the others. Over the oceans,
+mean sea level defines the geoid surface, but over the land areas the geoid is
+an imaginary sea-level surface.
+Today perturbations in the motions of artificial satellites are used to
+define the global geoid and gravity pattern with a high degree of accuracy.
+Geodetic satellites are positioned at a height of 700-800 kilometers above
+the Earth. Simultaneous range observations from several laser stations fix the
+position of a satellite, and radar altimeters measure directly its height over
+the oceans. Results show that the geoid is irregular; in places its surface is
+up to 100 metres higher than the ideal reference ellipsoid and elsewhere it is
+as much as 100 metres below it. The most likely explanation for this height
+4
+variation is that the gravity (and density) anomalies are related to mantle
+convection and temperature differences at depth. An important observation
+that confirms this interpretation is that there is a close correlation between the
+gravity anomalies and the surface expression of the Earth’s plate boundaries.
+This also strengthens the idea that the ultimate driving force of tectonic plate
+is a large-scale circulation of the mantle.
+A similar satellite ranging technique is also used to determine the drift
+rates of continents. Repeated measurements of laser light travel times between
+ground stations and satellites permit the relative movement of different control
+blocks to be calculatedThe scientific objective of geodesy is to determine the size and shape of
+the Earth. The practical role of geodesy is to provide a network of accurately
+surveyed points on the Earth’s surface, the vertical elevations and geographic
+positions of which are precisely known and, in turn, may be incorporated in
+maps. When two geographic coordinates of a control point on the Earth’s
+surface, its latitude and longitude, are known as well as its elevation above
+sea level, the location of that point is known with accuracy within the limits
+of error involved in the surveying processes. In mapping large areas, such as
+a whole state or country, the irregularities in the curvature of the Earth must
+be considered. A network of precisely surveyed control points provides a
+skeleton to which other surveys may be tied to provide progressively finer
+networks of more closely space points. The resulting networks of points have
+many uses, including anchor points or bench marks for surveys of highways
+and other civil features. A major use of control points is to provide reference
+points to which the contour lines and other features of topographic maps are
+tied. Most topographic maps are made using photogrammetric techniques
+and aerial photographs.
+The Earth’s figure is that of a surface called the geoid, which over the
+Earth is the average sea level at each location; under the continents the geoid
+is an imaginary continuation of sea level. The geoid is not a uniform spheroid,
+however, because of the existence of irregularities in the attraction of gravity
+from place to place on the Earth’s surface. These irregularities of the geoid
+would bring about serious errors in the surveyed location of control points
+if astronomical methods, which involve use of the local horizon, were used
+solely in determining locations. Because of these irregularities, the reference
+surface used in geodesy is that of a regular mathematical surface, an ellipsoid
+of revolution that fits the geoid as closely as possible. This reference ellipsoid
+is below the geoid in some places and above it in the others. Over the oceans,
+mean sea level defines the geoid surface, but over the land areas the geoid is
+an imaginary sea-level surface.
+Today perturbations in the motions of artificial satellites are used to
+define the global geoid and gravity pattern with a high degree of accuracy.
+Geodetic satellites are positioned at a height of 700-800 kilometers above
+the Earth. Simultaneous range observations from several laser stations fix the
+position of a satellite, and radar altimeters measure directly its height over
+the oceans. Results show that the geoid is irregular; in places its surface is
+up to 100 metres higher than the ideal reference ellipsoid and elsewhere it is
+as much as 100 metres below it. The most likely explanation for this height
+4
+variation is that the gravity (and density) anomalies are related to mantle
+convection and temperature differences at depth. An important observation
+that confirms this interpretation is that there is a close correlation between the
+gravity anomalies and the surface expression of the Earth’s plate boundaries.
+This also strengthens the idea that the ultimate driving force of tectonic plate
+is a large-scale circulation of the mantle.
+A similar satellite ranging technique is also used to determine the drift
+rates of continents. Repeated measurements of laser light travel times between
+ground stations and satellites permit the relative movement of different control
+blocks to be calculatedThe scientific objective of geodesy is to determine the size and shape of
+the Earth. The practical role of geodesy is to provide a network of accurately
+surveyed points on the Earth’s surface, the vertical elevations and geographic
+positions of which are precisely known and, in turn, may be incorporated in
+maps. When two geographic coordinates of a control point on the Earth’s
+surface, its latitude and longitude, are known as well as its elevation above
+sea level, the location of that point is known with accuracy within the limits
+of error involved in the surveying processes. In mapping large areas, such as
+a whole state or country, the irregularities in the curvature of the Earth must
+be considered. A network of precisely surveyed control points provides a
+skeleton to which other surveys may be tied to provide progressively finer
+networks of more closely space points. The resulting networks of points have
+many uses, including anchor points or bench marks for surveys of highways
+and other civil features. A major use of control points is to provide reference
+points to which the contour lines and other features of topographic maps are
+tied. Most topographic maps are made using photogrammetric techniques
+and aerial photographs.
+The Earth’s figure is that of a surface called the geoid, which over the
+Earth is the average sea level at each location; under the continents the geoid
+is an imaginary continuation of sea level. The geoid is not a uniform spheroid,
+however, because of the existence of irregularities in the attraction of gravity
+from place to place on the Earth’s surface. These irregularities of the geoid
+would bring about serious errors in the surveyed location of control points
+if astronomical methods, which involve use of the local horizon, were used
+solely in determining locations. Because of these irregularities, the reference
+surface used in geodesy is that of a regular mathematical surface, an ellipsoid
+of revolution that fits the geoid as closely as possible. This reference ellipsoid
+is below the geoid in some places and above it in the others. Over the oceans,
+mean sea level defines the geoid surface, but over the land areas the geoid is
+an imaginary sea-level surface.
+Today perturbations in the motions of artificial satellites are used to
+define the global geoid and gravity pattern with a high degree of accuracy.
+Geodetic satellites are positioned at a height of 700-800 kilometers above
+the Earth. Simultaneous range observations from several laser stations fix the
+position of a satellite, and radar altimeters measure directly its height over
+the oceans. Results show that the geoid is irregular; in places its surface is
+up to 100 metres higher than the ideal reference ellipsoid and elsewhere it is
+as much as 100 metres below it. The most likely explanation for this height
+4
+variation is that the gravity (and density) anomalies are related to mantle
+convection and temperature differences at depth. An important observation
+that confirms this interpretation is that there is a close correlation between the
+gravity anomalies and the surface expression of the Earth’s plate boundaries.
+This also strengthens the idea that the ultimate driving force of tectonic plate
+is a large-scale circulation of the mantle.
+A similar satellite ranging technique is also used to determine the drift
+rates of continents. Repeated measurements of laser light travel times between
+ground stations and satellites permit the relative movement of different control
+blocks to be calculatedThe scientific objective of geodesy is to determine the size and shape of
+the Earth. The practical role of geodesy is to provide a network of accurately
+surveyed points on the Earth’s surface, the vertical elevations and geographic
+positions of which are precisely known and, in turn, may be incorporated in
+maps. When two geographic coordinates of a control point on the Earth’s
+surface, its latitude and longitude, are known as well as its elevation above
+sea level, the location of that point is known with accuracy within the limits
+of error involved in the surveying processes. In mapping large areas, such as
+a whole state or country, the irregularities in the curvature of the Earth must
+be considered. A network of precisely surveyed control points provides a
+skeleton to which other surveys may be tied to provide progressively finer
+networks of more closely space points. The resulting networks of points have
+many uses, including anchor points or bench marks for surveys of highways
+and other civil features. A major use of control points is to provide reference
+points to which the contour lines and other features of topographic maps are
+tied. Most topographic maps are made using photogrammetric techniques
+and aerial photographs.
+The Earth’s figure is that of a surface called the geoid, which over the
+Earth is the average sea level at each location; under the continents the geoid
+is an imaginary continuation of sea level. The geoid is not a uniform spheroid,
+however, because of the existence of irregularities in the attraction of gravity
+from place to place on the Earth’s surface. These irregularities of the geoid
+would bring about serious errors in the surveyed location of control points
+if astronomical methods, which involve use of the local horizon, were used
+solely in determining locations. Because of these irregularities, the reference
+surface used in geodesy is that of a regular mathematical surface, an ellipsoid
+of revolution that fits the geoid as closely as possible. This reference ellipsoid
+is below the geoid in some places and above it in the others. Over the oceans,
+mean sea level defines the geoid surface, but over the land areas the geoid is
+an imaginary sea-level surface.
+Today perturbations in the motions of artificial satellites are used to
+define the global geoid and gravity pattern with a high degree of accuracy.
+Geodetic satellites are positioned at a height of 700-800 kilometers above
+the Earth. Simultaneous range observations from several laser stations fix the
+position of a satellite, and radar altimeters measure directly its height over
+the oceans. Results show that the geoid is irregular; in places its surface is
+up to 100 metres higher than the ideal reference ellipsoid and elsewhere it is
+as much as 100 metres below it. The most likely explanation for this height
+4
+variation is that the gravity (and density) anomalies are related to mantle
+convection and temperature differences at depth. An important observation
+that confirms this interpretation is that there is a close correlation between the
+gravity anomalies and the surface expression of the Earth’s plate boundaries.
+This also strengthens the idea that the ultimate driving force of tectonic plate
+is a large-scale circulation of the mantle.
+A similar satellite ranging technique is also used to determine the drift
+rates of continents. Repeated measurements of laser light travel times between
+ground stations and satellites permit the relative movement of different control
+blocks to be calculatedThe scientific objective of geodesy is to determine the size and shape of
+the Earth. The practical role of geodesy is to provide a network of accurately
+surveyed points on the Earth’s surface, the vertical elevations and geographic
+positions of which are precisely known and, in turn, may be incorporated in
+maps. When two geographic coordinates of a control point on the Earth’s
+surface, its latitude and longitude, are known as well as its elevation above
+sea level, the location of that point is known with accuracy within the limits
+of error involved in the surveying processes. In mapping large areas, such as
+a whole state or country, the irregularities in the curvature of the Earth must
+be considered. A network of precisely surveyed control points provides a
+skeleton to which other surveys may be tied to provide progressively finer
+networks of more closely space points. The resulting networks of points have
+many uses, including anchor points or bench marks for surveys of highways
+and other civil features. A major use of control points is to provide reference
+points to which the contour lines and other features of topographic maps are
+tied. Most topographic maps are made using photogrammetric techniques
+and aerial photographs.
+The Earth’s figure is that of a surface called the geoid, which over the
+Earth is the average sea level at each location; under the continents the geoid
+is an imaginary continuation of sea level. The geoid is not a uniform spheroid,
+however, because of the existence of irregularities in the attraction of gravity
+from place to place on the Earth’s surface. These irregularities of the geoid
+would bring about serious errors in the surveyed location of control points
+if astronomical methods, which involve use of the local horizon, were used
+solely in determining locations. Because of these irregularities, the reference
+surface used in geodesy is that of a regular mathematical surface, an ellipsoid
+of revolution that fits the geoid as closely as possible. This reference ellipsoid
+is below the geoid in some places and above it in the others. Over the oceans,
+mean sea level defines the geoid surface, but over the land areas the geoid is
+an imaginary sea-level surface.
+Today perturbations in the motions of artificial satellites are used to
+define the global geoid and gravity pattern with a high degree of accuracy.
+Geodetic satellites are positioned at a height of 700-800 kilometers above
+the Earth. Simultaneous range observations from several laser stations fix the
+position of a satellite, and radar altimeters measure directly its height over
+the oceans. Results show that the geoid is irregular; in places its surface is
+up to 100 metres higher than the ideal reference ellipsoid and elsewhere it is
+as much as 100 metres below it. The most likely explanation for this height
+4
+variation is that the gravity (and density) anomalies are related to mantle
+convection and temperature differences at depth. An important observation
+that confirms this interpretation is that there is a close correlation between the
+gravity anomalies and the surface expression of the Earth’s plate boundaries.
+This also strengthens the idea that the ultimate driving force of tectonic plate
+is a large-scale circulation of the mantle.
+A similar satellite ranging technique is also used to determine the drift
+rates of continents. Repeated measurements of laser light travel times between
+ground stations and satellites permit the relative movement of different control
+blocks to be calculatedThe scientific objective of geodesy is to determine the size and shape of
+the Earth. The practical role of geodesy is to provide a network of accurately
+surveyed points on the Earth’s surface, the vertical elevations and geographic
+positions of which are precisely known and, in turn, may be incorporated in
+maps. When two geographic coordinates of a control point on the Earth’s
+surface, its latitude and longitude, are known as well as its elevation above
+sea level, the location of that point is known with accuracy within the limits
+of error involved in the surveying processes. In mapping large areas, such as
+a whole state or country, the irregularities in the curvature of the Earth must
+be considered. A network of precisely surveyed control points provides a
+skeleton to which other surveys may be tied to provide progressively finer
+networks of more closely space points. The resulting networks of points have
+many uses, including anchor points or bench marks for surveys of highways
+and other civil features. A major use of control points is to provide reference
+points to which the contour lines and other features of topographic maps are
+tied. Most topographic maps are made using photogrammetric techniques
+and aerial photographs.
+The Earth’s figure is that of a surface called the geoid, which over the
+Earth is the average sea level at each location; under the continents the geoid
+is an imaginary continuation of sea level. The geoid is not a uniform spheroid,
+however, because of the existence of irregularities in the attraction of gravity
+from place to place on the Earth’s surface. These irregularities of the geoid
+would bring about serious errors in the surveyed location of control points
+if astronomical methods, which involve use of the local horizon, were used
+solely in determining locations. Because of these irregularities, the reference
+surface used in geodesy is that of a regular mathematical surface, an ellipsoid
+of revolution that fits the geoid as closely as possible. This reference ellipsoid
+is below the geoid in some places and above it in the others. Over the oceans,
+mean sea level defines the geoid surface, but over the land areas the geoid is
+an imaginary sea-level surface.
+Today perturbations in the motions of artificial satellites are used to
+define the global geoid and gravity pattern with a high degree of accuracy.
+Geodetic satellites are positioned at a height of 700-800 kilometers above
+the Earth. Simultaneous range observations from several laser stations fix the
+position of a satellite, and radar altimeters measure directly its height over
+the oceans. Results show that the geoid is irregular; in places its surface is
+up to 100 metres higher than the ideal reference ellipsoid and elsewhere it is
+as much as 100 metres below it. The most likely explanation for this height
+4
+variation is that the gravity (and density) anomalies are related to mantle
+convection and temperature differences at depth. An important observation
+that confirms this interpretation is that there is a close correlation between the
+gravity anomalies and the surface expression of the Earth’s plate boundaries.
+This also strengthens the idea that the ultimate driving force of tectonic plate
+is a large-scale circulation of the mantle.
+A similar satellite ranging technique is also used to determine the drift
+rates of continents. Repeated measurements of laser light travel times between
+ground stations and satellites permit the relative movement of different control
+blocks to be calculatedThe scientific objective of geodesy is to determine the size and shape of
+the Earth. The practical role of geodesy is to provide a network of accurately
+surveyed points on the Earth’s surface, the vertical elevations and geographic
+positions of which are precisely known and, in turn, may be incorporated in
+maps. When two geographic coordinates of a control point on the Earth’s
+surface, its latitude and longitude, are known as well as its elevation above
+sea level, the location of that point is known with accuracy within the limits
+of error involved in the surveying processes. In mapping large areas, such as
+a whole state or country, the irregularities in the curvature of the Earth must
+be considered. A network of precisely surveyed control points provides a
+skeleton to which other surveys may be tied to provide progressively finer
+networks of more closely space points. The resulting networks of points have
+many uses, including anchor points or bench marks for surveys of highways
+and other civil features. A major use of control points is to provide reference
+points to which the contour lines and other features of topographic maps are
+tied. Most topographic maps are made using photogrammetric techniques
+and aerial photographs.
+The Earth’s figure is that of a surface called the geoid, which over the
+Earth is the average sea level at each location; under the continents the geoid
+is an imaginary continuation of sea level. The geoid is not a uniform spheroid,
+however, because of the existence of irregularities in the attraction of gravity
+from place to place on the Earth’s surface. These irregularities of the geoid
+would bring about serious errors in the surveyed location of control points
+if astronomical methods, which involve use of the local horizon, were used
+solely in determining locations. Because of these irregularities, the reference
+surface used in geodesy is that of a regular mathematical surface, an ellipsoid
+of revolution that fits the geoid as closely as possible. This reference ellipsoid
+is below the geoid in some places and above it in the others. Over the oceans,
+mean sea level defines the geoid surface, but over the land areas the geoid is
+an imaginary sea-level surface.
+Today perturbations in the motions of artificial satellites are used to
+define the global geoid and gravity pattern with a high degree of accuracy.
+Geodetic satellites are positioned at a height of 700-800 kilometers above
+the Earth. Simultaneous range observations from several laser stations fix the
+position of a satellite, and radar altimeters measure directly its height over
+the oceans. Results show that the geoid is irregular; in places its surface is
+up to 100 metres higher than the ideal reference ellipsoid and elsewhere it is
+as much as 100 metres below it. The most likely explanation for this height
+4
+variation is that the gravity (and density) anomalies are related to mantle
+convection and temperature differences at depth. An important observation
+that confirms this interpretation is that there is a close correlation between the
+gravity anomalies and the surface expression of the Earth’s plate boundaries.
+This also strengthens the idea that the ultimate driving force of tectonic plate
+is a large-scale circulation of the mantle.
+A similar satellite ranging technique is also used to determine the drift
+rates of continents. Repeated measurements of laser light travel times between
+ground stations and satellites permit the relative movement of different control
+blocks to be calculatedThe scientific objective of geodesy is to determine the size and shape of
+the Earth. The practical role of geodesy is to provide a network of accurately
+surveyed points on the Earth’s surface, the vertical elevations and geographic
+positions of which are precisely known and, in turn, may be incorporated in
+maps. When two geographic coordinates of a control point on the Earth’s
+surface, its latitude and longitude, are known as well as its elevation above
+sea level, the location of that point is known with accuracy within the limits
+of error involved in the surveying processes. In mapping large areas, such as
+a whole state or country, the irregularities in the curvature of the Earth must
+be considered. A network of precisely surveyed control points provides a
+skeleton to which other surveys may be tied to provide progressively finer
+networks of more closely space points. The resulting networks of points have
+many uses, including anchor points or bench marks for surveys of highways
+and other civil features. A major use of control points is to provide reference
+points to which the contour lines and other features of topographic maps are
+tied. Most topographic maps are made using photogrammetric techniques
+and aerial photographs.
+The Earth’s figure is that of a surface called the geoid, which over the
+Earth is the average sea level at each location; under the continents the geoid
+is an imaginary continuation of sea level. The geoid is not a uniform spheroid,
+however, because of the existence of irregularities in the attraction of gravity
+from place to place on the Earth’s surface. These irregularities of the geoid
+would bring about serious errors in the surveyed location of control points
+if astronomical methods, which involve use of the local horizon, were used
+solely in determining locations. Because of these irregularities, the reference
+surface used in geodesy is that of a regular mathematical surface, an ellipsoid
+of revolution that fits the geoid as closely as possible. This reference ellipsoid
+is below the geoid in some places and above it in the others. Over the oceans,
+mean sea level defines the geoid surface, but over the land areas the geoid is
+an imaginary sea-level surface.
+Today perturbations in the motions of artificial satellites are used to
+define the global geoid and gravity pattern with a high degree of accuracy.
+Geodetic satellites are positioned at a height of 700-800 kilometers above
+the Earth. Simultaneous range observations from several laser stations fix the
+position of a satellite, and radar altimeters measure directly its height over
+the oceans. Results show that the geoid is irregular; in places its surface is
+up to 100 metres higher than the ideal reference ellipsoid and elsewhere it is
+as much as 100 metres below it. The most likely explanation for this height
+4
+variation is that the gravity (and density) anomalies are related to mantle
+convection and temperature differences at depth. An important observation
+that confirms this interpretation is that there is a close correlation between the
+gravity anomalies and the surface expression of the Earth’s plate boundaries.
+This also strengthens the idea that the ultimate driving force of tectonic plate
+is a large-scale circulation of the mantle.
+A similar satellite ranging technique is also used to determine the drift
+rates of continents. Repeated measurements of laser light travel times between
+ground stations and satellites permit the relative movement of different control
+blocks to be calculatedThe scientific objective of geodesy is to determine the size and shape of
+the Earth. The practical role of geodesy is to provide a network of accurately
+surveyed points on the Earth’s surface, the vertical elevations and geographic
+positions of which are precisely known and, in turn, may be incorporated in
+maps. When two geographic coordinates of a control point on the Earth’s
+surface, its latitude and longitude, are known as well as its elevation above
+sea level, the location of that point is known with accuracy within the limits
+of error involved in the surveying processes. In mapping large areas, such as
+a whole state or country, the irregularities in the curvature of the Earth must
+be considered. A network of precisely surveyed control points provides a
+skeleton to which other surveys may be tied to provide progressively finer
+networks of more closely space points. The resulting networks of points have
+many uses, including anchor points or bench marks for surveys of highways
+and other civil features. A major use of control points is to provide reference
+points to which the contour lines and other features of topographic maps are
+tied. Most topographic maps are made using photogrammetric techniques
+and aerial photographs.
+The Earth’s figure is that of a surface called the geoid, which over the
+Earth is the average sea level at each location; under the continents the geoid
+is an imaginary continuation of sea level. The geoid is not a uniform spheroid,
+however, because of the existence of irregularities in the attraction of gravity
+from place to place on the Earth’s surface. These irregularities of the geoid
+would bring about serious errors in the surveyed location of control points
+if astronomical methods, which involve use of the local horizon, were used
+solely in determining locations. Because of these irregularities, the reference
+surface used in geodesy is that of a regular mathematical surface, an ellipsoid
+of revolution that fits the geoid as closely as possible. This reference ellipsoid
+is below the geoid in some places and above it in the others. Over the oceans,
+mean sea level defines the geoid surface, but over the land areas the geoid is
+an imaginary sea-level surface.
+Today perturbations in the motions of artificial satellites are used to
+define the global geoid and gravity pattern with a high degree of accuracy.
+Geodetic satellites are positioned at a height of 700-800 kilometers above
+the Earth. Simultaneous range observations from several laser stations fix the
+position of a satellite, and radar altimeters measure directly its height over
+the oceans. Results show that the geoid is irregular; in places its surface is
+up to 100 metres higher than the ideal reference ellipsoid and elsewhere it is
+as much as 100 metres below it. The most likely explanation for this height
+4
+variation is that the gravity (and density) anomalies are related to mantle
+convection and temperature differences at depth. An important observation
+that confirms this interpretation is that there is a close correlation between the
+gravity anomalies and the surface expression of the Earth’s plate boundaries.
+This also strengthens the idea that the ultimate driving force of tectonic plate
+is a large-scale circulation of the mantle.
+A similar satellite ranging technique is also used to determine the drift
+rates of continents. Repeated measurements of laser light travel times between
+ground stations and satellites permit the relative movement of different control
+blocks to be calculatedThe scientific objective of geodesy is to determine the size and shape of
+the Earth. The practical role of geodesy is to provide a network of accurately
+surveyed points on the Earth’s surface, the vertical elevations and geographic
+positions of which are precisely known and, in turn, may be incorporated in
+maps. When two geographic coordinates of a control point on the Earth’s
+surface, its latitude and longitude, are known as well as its elevation above
+sea level, the location of that point is known with accuracy within the limits
+of error involved in the surveying processes. In mapping large areas, such as
+a whole state or country, the irregularities in the curvature of the Earth must
+be considered. A network of precisely surveyed control points provides a
+skeleton to which other surveys may be tied to provide progressively finer
+networks of more closely space points. The resulting networks of points have
+many uses, including anchor points or bench marks for surveys of highways
+and other civil features. A major use of control points is to provide reference
+points to which the contour lines and other features of topographic maps are
+tied. Most topographic maps are made using photogrammetric techniques
+and aerial photographs.
+The Earth’s figure is that of a surface called the geoid, which over the
+Earth is the average sea level at each location; under the continents the geoid
+is an imaginary continuation of sea level. The geoid is not a uniform spheroid,
+however, because of the existence of irregularities in the attraction of gravity
+from place to place on the Earth’s surface. These irregularities of the geoid
+would bring about serious errors in the surveyed location of control points
+if astronomical methods, which involve use of the local horizon, were used
+solely in determining locations. Because of these irregularities, the reference
+surface used in geodesy is that of a regular mathematical surface, an ellipsoid
+of revolution that fits the geoid as closely as possible. This reference ellipsoid
+is below the geoid in some places and above it in the others. Over the oceans,
+mean sea level defines the geoid surface, but over the land areas the geoid is
+an imaginary sea-level surface.
+Today perturbations in the motions of artificial satellites are used to
+define the global geoid and gravity pattern with a high degree of accuracy.
+Geodetic satellites are positioned at a height of 700-800 kilometers above
+the Earth. Simultaneous range observations from several laser stations fix the
+position of a satellite, and radar altimeters measure directly its height over
+the oceans. Results show that the geoid is irregular; in places its surface is
+up to 100 metres higher than the ideal reference ellipsoid and elsewhere it is
+as much as 100 metres below it. The most likely explanation for this height
+4
+variation is that the gravity (and density) anomalies are related to mantle
+convection and temperature differences at depth. An important observation
+that confirms this interpretation is that there is a close correlation between the
+gravity anomalies and the surface expression of the Earth’s plate boundaries.
+This also strengthens the idea that the ultimate driving force of tectonic plate
+is a large-scale circulation of the mantle.
+A similar satellite ranging technique is also used to determine the drift
+rates of continents. Repeated measurements of laser light travel times between
+ground stations and satellites permit the relative movement of different control
+blocks to be calculatedThe scientific objective of geodesy is to determine the size and shape of
+the Earth. The practical role of geodesy is to provide a network of accurately
+surveyed points on the Earth’s surface, the vertical elevations and geographic
+positions of which are precisely known and, in turn, may be incorporated in
+maps. When two geographic coordinates of a control point on the Earth’s
+surface, its latitude and longitude, are known as well as its elevation above
+sea level, the location of that point is known with accuracy within the limits
+of error involved in the surveying processes. In mapping large areas, such as
+a whole state or country, the irregularities in the curvature of the Earth must
+be considered. A network of precisely surveyed control points provides a
+skeleton to which other surveys may be tied to provide progressively finer
+networks of more closely space points. The resulting networks of points have
+many uses, including anchor points or bench marks for surveys of highways
+and other civil features. A major use of control points is to provide reference
+points to which the contour lines and other features of topographic maps are
+tied. Most topographic maps are made using photogrammetric techniques
+and aerial photographs.
+The Earth’s figure is that of a surface called the geoid, which over the
+Earth is the average sea level at each location; under the continents the geoid
+is an imaginary continuation of sea level. The geoid is not a uniform spheroid,
+however, because of the existence of irregularities in the attraction of gravity
+from place to place on the Earth’s surface. These irregularities of the geoid
+would bring about serious errors in the surveyed location of control points
+if astronomical methods, which involve use of the local horizon, were used
+solely in determining locations. Because of these irregularities, the reference
+surface used in geodesy is that of a regular mathematical surface, an ellipsoid
+of revolution that fits the geoid as closely as possible. This reference ellipsoid
+is below the geoid in some places and above it in the others. Over the oceans,
+mean sea level defines the geoid surface, but over the land areas the geoid is
+an imaginary sea-level surface.
+Today perturbations in the motions of artificial satellites are used to
+define the global geoid and gravity pattern with a high degree of accuracy.
+Geodetic satellites are positioned at a height of 700-800 kilometers above
+the Earth. Simultaneous range observations from several laser stations fix the
+position of a satellite, and radar altimeters measure directly its height over
+the oceans. Results show that the geoid is irregular; in places its surface is
+up to 100 metres higher than the ideal reference ellipsoid and elsewhere it is
+as much as 100 metres below it. The most likely explanation for this height
+4
+variation is that the gravity (and density) anomalies are related to mantle
+convection and temperature differences at depth. An important observation
+that confirms this interpretation is that there is a close correlation between the
+gravity anomalies and the surface expression of the Earth’s plate boundaries.
+This also strengthens the idea that the ultimate driving force of tectonic plate
+is a large-scale circulation of the mantle.
+A similar satellite ranging technique is also used to determine the drift
+rates of continents. Repeated measurements of laser light travel times between
+ground stations and satellites permit the relative movement of different control
+blocks to be calculatedThe scientific objective of geodesy is to determine the size and shape of
+the Earth. The practical role of geodesy is to provide a network of accurately
+surveyed points on the Earth’s surface, the vertical elevations and geographic
+positions of which are precisely known and, in turn, may be incorporated in
+maps. When two geographic coordinates of a control point on the Earth’s
+surface, its latitude and longitude, are known as well as its elevation above
+sea level, the location of that point is known with accuracy within the limits
+of error involved in the surveying processes. In mapping large areas, such as
+a whole state or country, the irregularities in the curvature of the Earth must
+be considered. A network of precisely surveyed control points provides a
+skeleton to which other surveys may be tied to provide progressively finer
+networks of more closely space points. The resulting networks of points have
+many uses, including anchor points or bench marks for surveys of highways
+and other civil features. A major use of control points is to provide reference
+points to which the contour lines and other features of topographic maps are
+tied. Most topographic maps are made using photogrammetric techniques
+and aerial photographs.
+The Earth’s figure is that of a surface called the geoid, which over the
+Earth is the average sea level at each location; under the continents the geoid
+is an imaginary continuation of sea level. The geoid is not a uniform spheroid,
+however, because of the existence of irregularities in the attraction of gravity
+from place to place on the Earth’s surface. These irregularities of the geoid
+would bring about serious errors in the surveyed location of control points
+if astronomical methods, which involve use of the local horizon, were used
+solely in determining locations. Because of these irregularities, the reference
+surface used in geodesy is that of a regular mathematical surface, an ellipsoid
+of revolution that fits the geoid as closely as possible. This reference ellipsoid
+is below the geoid in some places and above it in the others. Over the oceans,
+mean sea level defines the geoid surface, but over the land areas the geoid is
+an imaginary sea-level surface.
+Today perturbations in the motions of artificial satellites are used to
+define the global geoid and gravity pattern with a high degree of accuracy.
+Geodetic satellites are positioned at a height of 700-800 kilometers above
+the Earth. Simultaneous range observations from several laser stations fix the
+position of a satellite, and radar altimeters measure directly its height over
+the oceans. Results show that the geoid is irregular; in places its surface is
+up to 100 metres higher than the ideal reference ellipsoid and elsewhere it is
+as much as 100 metres below it. The most likely explanation for this height
+4
+variation is that the gravity (and density) anomalies are related to mantle
+convection and temperature differences at depth. An important observation
+that confirms this interpretation is that there is a close correlation between the
+gravity anomalies and the surface expression of the Earth’s plate boundaries.
+This also strengthens the idea that the ultimate driving force of tectonic plate
+is a large-scale circulation of the mantle.
+A similar satellite ranging technique is also used to determine the drift
+rates of continents. Repeated measurements of laser light travel times between
+ground stations and satellites permit the relative movement of different control
+blocks to be calculatedThe scientific objective of geodesy is to determine the size and shape of
+the Earth. The practical role of geodesy is to provide a network of accurately
+surveyed points on the Earth’s surface, the vertical elevations and geographic
+positions of which are precisely known and, in turn, may be incorporated in
+maps. When two geographic coordinates of a control point on the Earth’s
+surface, its latitude and longitude, are known as well as its elevation above
+sea level, the location of that point is known with accuracy within the limits
+of error involved in the surveying processes. In mapping large areas, such as
+a whole state or country, the irregularities in the curvature of the Earth must
+be considered. A network of precisely surveyed control points provides a
+skeleton to which other surveys may be tied to provide progressively finer
+networks of more closely space points. The resulting networks of points have
+many uses, including anchor points or bench marks for surveys of highways
+and other civil features. A major use of control points is to provide reference
+points to which the contour lines and other features of topographic maps are
+tied. Most topographic maps are made using photogrammetric techniques
+and aerial photographs.
+The Earth’s figure is that of a surface called the geoid, which over the
+Earth is the average sea level at each location; under the continents the geoid
+is an imaginary continuation of sea level. The geoid is not a uniform spheroid,
+however, because of the existence of irregularities in the attraction of gravity
+from place to place on the Earth’s surface. These irregularities of the geoid
+would bring about serious errors in the surveyed location of control points
+if astronomical methods, which involve use of the local horizon, were used
+solely in determining locations. Because of these irregularities, the reference
+surface used in geodesy is that of a regular mathematical surface, an ellipsoid
+of revolution that fits the geoid as closely as possible. This reference ellipsoid
+is below the geoid in some places and above it in the others. Over the oceans,
+mean sea level defines the geoid surface, but over the land areas the geoid is
+an imaginary sea-level surface.
+Today perturbations in the motions of artificial satellites are used to
+define the global geoid and gravity pattern with a high degree of accuracy.
+Geodetic satellites are positioned at a height of 700-800 kilometers above
+the Earth. Simultaneous range observations from several laser stations fix the
+position of a satellite, and radar altimeters measure directly its height over
+the oceans. Results show that the geoid is irregular; in places its surface is
+up to 100 metres higher than the ideal reference ellipsoid and elsewhere it is
+as much as 100 metres below it. The most likely explanation for this height
+4
+variation is that the gravity (and density) anomalies are related to mantle
+convection and temperature differences at depth. An important observation
+that confirms this interpretation is that there is a close correlation between the
+gravity anomalies and the surface expression of the Earth’s plate boundaries.
+This also strengthens the idea that the ultimate driving force of tectonic plate
+is a large-scale circulation of the mantle.
+A similar satellite ranging technique is also used to determine the drift
+rates of continents. Repeated measurements of laser light travel times between
+ground stations and satellites permit the relative movement of different control
+blocks to be calculatedThe scientific objective of geodesy is to determine the size and shape of
+the Earth. The practical role of geodesy is to provide a network of accurately
+surveyed points on the Earth’s surface, the vertical elevations and geographic
+positions of which are precisely known and, in turn, may be incorporated in
+maps. When two geographic coordinates of a control point on the Earth’s
+surface, its latitude and longitude, are known as well as its elevation above
+sea level, the location of that point is known with accuracy within the limits
+of error involved in the surveying processes. In mapping large areas, such as
+a whole state or country, the irregularities in the curvature of the Earth must
+be considered. A network of precisely surveyed control points provides a
+skeleton to which other surveys may be tied to provide progressively finer
+networks of more closely space points. The resulting networks of points have
+many uses, including anchor points or bench marks for surveys of highways
+and other civil features. A major use of control points is to provide reference
+points to which the contour lines and other features of topographic maps are
+tied. Most topographic maps are made using photogrammetric techniques
+and aerial photographs.
+The Earth’s figure is that of a surface called the geoid, which over the
+Earth is the average sea level at each location; under the continents the geoid
+is an imaginary continuation of sea level. The geoid is not a uniform spheroid,
+however, because of the existence of irregularities in the attraction of gravity
+from place to place on the Earth’s surface. These irregularities of the geoid
+would bring about serious errors in the surveyed location of control points
+if astronomical methods, which involve use of the local horizon, were used
+solely in determining locations. Because of these irregularities, the reference
+surface used in geodesy is that of a regular mathematical surface, an ellipsoid
+of revolution that fits the geoid as closely as possible. This reference ellipsoid
+is below the geoid in some places and above it in the others. Over the oceans,
+mean sea level defines the geoid surface, but over the land areas the geoid is
+an imaginary sea-level surface.
+Today perturbations in the motions of artificial satellites are used to
+define the global geoid and gravity pattern with a high degree of accuracy.
+Geodetic satellites are positioned at a height of 700-800 kilometers above
+the Earth. Simultaneous range observations from several laser stations fix the
+position of a satellite, and radar altimeters measure directly its height over
+the oceans. Results show that the geoid is irregular; in places its surface is
+up to 100 metres higher than the ideal reference ellipsoid and elsewhere it is
+as much as 100 metres below it. The most likely explanation for this height
+4
+variation is that the gravity (and density) anomalies are related to mantle
+convection and temperature differences at depth. An important observation
+that confirms this interpretation is that there is a close correlation between the
+gravity anomalies and the surface expression of the Earth’s plate boundaries.
+This also strengthens the idea that the ultimate driving force of tectonic plate
+is a large-scale circulation of the mantle.
+A similar satellite ranging technique is also used to determine the drift
+rates of continents. Repeated measurements of laser light travel times between
+ground stations and satellites permit the relative movement of different control
+blocks to be calculatedThe scientific objective of geodesy is to determine the size and shape of
+the Earth. The practical role of geodesy is to provide a network of accurately
+surveyed points on the Earth’s surface, the vertical elevations and geographic
+positions of which are precisely known and, in turn, may be incorporated in
+maps. When two geographic coordinates of a control point on the Earth’s
+surface, its latitude and longitude, are known as well as its elevation above
+sea level, the location of that point is known with accuracy within the limits
+of error involved in the surveying processes. In mapping large areas, such as
+a whole state or country, the irregularities in the curvature of the Earth must
+be considered. A network of precisely surveyed control points provides a
+skeleton to which other surveys may be tied to provide progressively finer
+networks of more closely space points. The resulting networks of points have
+many uses, including anchor points or bench marks for surveys of highways
+and other civil features. A major use of control points is to provide reference
+points to which the contour lines and other features of topographic maps are
+tied. Most topographic maps are made using photogrammetric techniques
+and aerial photographs.
+The Earth’s figure is that of a surface called the geoid, which over the
+Earth is the average sea level at each location; under the continents the geoid
+is an imaginary continuation of sea level. The geoid is not a uniform spheroid,
+however, because of the existence of irregularities in the attraction of gravity
+from place to place on the Earth’s surface. These irregularities of the geoid
+would bring about serious errors in the surveyed location of control points
+if astronomical methods, which involve use of the local horizon, were used
+solely in determining locations. Because of these irregularities, the reference
+surface used in geodesy is that of a regular mathematical surface, an ellipsoid
+of revolution that fits the geoid as closely as possible. This reference ellipsoid
+is below the geoid in some places and above it in the others. Over the oceans,
+mean sea level defines the geoid surface, but over the land areas the geoid is
+an imaginary sea-level surface.
+Today perturbations in the motions of artificial satellites are used to
+define the global geoid and gravity pattern with a high degree of accuracy.
+Geodetic satellites are positioned at a height of 700-800 kilometers above
+the Earth. Simultaneous range observations from several laser stations fix the
+position of a satellite, and radar altimeters measure directly its height over
+the oceans. Results show that the geoid is irregular; in places its surface is
+up to 100 metres higher than the ideal reference ellipsoid and elsewhere it is
+as much as 100 metres below it. The most likely explanation for this height
+4
+variation is that the gravity (and density) anomalies are related to mantle
+convection and temperature differences at depth. An important observation
+that confirms this interpretation is that there is a close correlation between the
+gravity anomalies and the surface expression of the Earth’s plate boundaries.
+This also strengthens the idea that the ultimate driving force of tectonic plate
+is a large-scale circulation of the mantle.
+A similar satellite ranging technique is also used to determine the drift
+rates of continents. Repeated measurements of laser light travel times between
+ground stations and satellites permit the relative movement of different control
+blocks to be calculatedThe scientific objective of geodesy is to determine the size and shape of
+the Earth. The practical role of geodesy is to provide a network of accurately
+surveyed points on the Earth’s surface, the vertical elevations and geographic
+positions of which are precisely known and, in turn, may be incorporated in
+maps. When two geographic coordinates of a control point on the Earth’s
+surface, its latitude and longitude, are known as well as its elevation above
+sea level, the location of that point is known with accuracy within the limits
+of error involved in the surveying processes. In mapping large areas, such as
+a whole state or country, the irregularities in the curvature of the Earth must
+be considered. A network of precisely surveyed control points provides a
+skeleton to which other surveys may be tied to provide progressively finer
+networks of more closely space points. The resulting networks of points have
+many uses, including anchor points or bench marks for surveys of highways
+and other civil features. A major use of control points is to provide reference
+points to which the contour lines and other features of topographic maps are
+tied. Most topographic maps are made using photogrammetric techniques
+and aerial photographs.
+The Earth’s figure is that of a surface called the geoid, which over the
+Earth is the average sea level at each location; under the continents the geoid
+is an imaginary continuation of sea level. The geoid is not a uniform spheroid,
+however, because of the existence of irregularities in the attraction of gravity
+from place to place on the Earth’s surface. These irregularities of the geoid
+would bring about serious errors in the surveyed location of control points
+if astronomical methods, which involve use of the local horizon, were used
+solely in determining locations. Because of these irregularities, the reference
+surface used in geodesy is that of a regular mathematical surface, an ellipsoid
+of revolution that fits the geoid as closely as possible. This reference ellipsoid
+is below the geoid in some places and above it in the others. Over the oceans,
+mean sea level defines the geoid surface, but over the land areas the geoid is
+an imaginary sea-level surface.
+Today perturbations in the motions of artificial satellites are used to
+define the global geoid and gravity pattern with a high degree of accuracy.
+Geodetic satellites are positioned at a height of 700-800 kilometers above
+the Earth. Simultaneous range observations from several laser stations fix the
+position of a satellite, and radar altimeters measure directly its height over
+the oceans. Results show that the geoid is irregular; in places its surface is
+up to 100 metres higher than the ideal reference ellipsoid and elsewhere it is
+as much as 100 metres below it. The most likely explanation for this height
+4
+variation is that the gravity (and density) anomalies are related to mantle
+convection and temperature differences at depth. An important observation
+that confirms this interpretation is that there is a close correlation between the
+gravity anomalies and the surface expression of the Earth’s plate boundaries.
+This also strengthens the idea that the ultimate driving force of tectonic plate
+is a large-scale circulation of the mantle.
+A similar satellite ranging technique is also used to determine the drift
+rates of continents. Repeated measurements of laser light travel times between
+ground stations and satellites permit the relative movement of different control
+blocks to be calculatedThe scientific objective of geodesy is to determine the size and shape of
+the Earth. The practical role of geodesy is to provide a network of accurately
+surveyed points on the Earth’s surface, the vertical elevations and geographic
+positions of which are precisely known and, in turn, may be incorporated in
+maps. When two geographic coordinates of a control point on the Earth’s
+surface, its latitude and longitude, are known as well as its elevation above
+sea level, the location of that point is known with accuracy within the limits
+of error involved in the surveying processes. In mapping large areas, such as
+a whole state or country, the irregularities in the curvature of the Earth must
+be considered. A network of precisely surveyed control points provides a
+skeleton to which other surveys may be tied to provide progressively finer
+networks of more closely space points. The resulting networks of points have
+many uses, including anchor points or bench marks for surveys of highways
+and other civil features. A major use of control points is to provide reference
+points to which the contour lines and other features of topographic maps are
+tied. Most topographic maps are made using photogrammetric techniques
+and aerial photographs.
+The Earth’s figure is that of a surface called the geoid, which over the
+Earth is the average sea level at each location; under the continents the geoid
+is an imaginary continuation of sea level. The geoid is not a uniform spheroid,
+however, because of the existence of irregularities in the attraction of gravity
+from place to place on the Earth’s surface. These irregularities of the geoid
+would bring about serious errors in the surveyed location of control points
+if astronomical methods, which involve use of the local horizon, were used
+solely in determining locations. Because of these irregularities, the reference
+surface used in geodesy is that of a regular mathematical surface, an ellipsoid
+of revolution that fits the geoid as closely as possible. This reference ellipsoid
+is below the geoid in some places and above it in the others. Over the oceans,
+mean sea level defines the geoid surface, but over the land areas the geoid is
+an imaginary sea-level surface.
+Today perturbations in the motions of artificial satellites are used to
+define the global geoid and gravity pattern with a high degree of accuracy.
+Geodetic satellites are positioned at a height of 700-800 kilometers above
+the Earth. Simultaneous range observations from several laser stations fix the
+position of a satellite, and radar altimeters measure directly its height over
+the oceans. Results show that the geoid is irregular; in places its surface is
+up to 100 metres higher than the ideal reference ellipsoid and elsewhere it is
+as much as 100 metres below it. The most likely explanation for this height
+4
+variation is that the gravity (and density) anomalies are related to mantle
+convection and temperature differences at depth. An important observation
+that confirms this interpretation is that there is a close correlation between the
+gravity anomalies and the surface expression of the Earth’s plate boundaries.
+This also strengthens the idea that the ultimate driving force of tectonic plate
+is a large-scale circulation of the mantle.
+A similar satellite ranging technique is also used to determine the drift
+rates of continents. Repeated measurements of laser light travel times between
+ground stations and satellites permit the relative movement of different control
+blocks to be calculatedThe scientific objective of geodesy is to determine the size and shape of
+the Earth. The practical role of geodesy is to provide a network of accurately
+surveyed points on the Earth’s surface, the vertical elevations and geographic
+positions of which are precisely known and, in turn, may be incorporated in
+maps. When two geographic coordinates of a control point on the Earth’s
+surface, its latitude and longitude, are known as well as its elevation above
+sea level, the location of that point is known with accuracy within the limits
+of error involved in the surveying processes. In mapping large areas, such as
+a whole state or country, the irregularities in the curvature of the Earth must
+be considered. A network of precisely surveyed control points provides a
+skeleton to which other surveys may be tied to provide progressively finer
+networks of more closely space points. The resulting networks of points have
+many uses, including anchor points or bench marks for surveys of highways
+and other civil features. A major use of control points is to provide reference
+points to which the contour lines and other features of topographic maps are
+tied. Most topographic maps are made using photogrammetric techniques
+and aerial photographs.
+The Earth’s figure is that of a surface called the geoid, which over the
+Earth is the average sea level at each location; under the continents the geoid
+is an imaginary continuation of sea level. The geoid is not a uniform spheroid,
+however, because of the existence of irregularities in the attraction of gravity
+from place to place on the Earth’s surface. These irregularities of the geoid
+would bring about serious errors in the surveyed location of control points
+if astronomical methods, which involve use of the local horizon, were used
+solely in determining locations. Because of these irregularities, the reference
+surface used in geodesy is that of a regular mathematical surface, an ellipsoid
+of revolution that fits the geoid as closely as possible. This reference ellipsoid
+is below the geoid in some places and above it in the others. Over the oceans,
+mean sea level defines the geoid surface, but over the land areas the geoid is
+an imaginary sea-level surface.
+Today perturbations in the motions of artificial satellites are used to
+define the global geoid and gravity pattern with a high degree of accuracy.
+Geodetic satellites are positioned at a height of 700-800 kilometers above
+the Earth. Simultaneous range observations from several laser stations fix the
+position of a satellite, and radar altimeters measure directly its height over
+the oceans. Results show that the geoid is irregular; in places its surface is
+up to 100 metres higher than the ideal reference ellipsoid and elsewhere it is
+as much as 100 metres below it. The most likely explanation for this height
+4
+variation is that the gravity (and density) anomalies are related to mantle
+convection and temperature differences at depth. An important observation
+that confirms this interpretation is that there is a close correlation between the
+gravity anomalies and the surface expression of the Earth’s plate boundaries.
+This also strengthens the idea that the ultimate driving force of tectonic plate
+is a large-scale circulation of the mantle.
+A similar satellite ranging technique is also used to determine the drift
+rates of continents. Repeated measurements of laser light travel times between
+ground stations and satellites permit the relative movement of different control
+blocks to be calculatedThe scientific objective of geodesy is to determine the size and shape of
+the Earth. The practical role of geodesy is to provide a network of accurately
+surveyed points on the Earth’s surface, the vertical elevations and geographic
+positions of which are precisely known and, in turn, may be incorporated in
+maps. When two geographic coordinates of a control point on the Earth’s
+surface, its latitude and longitude, are known as well as its elevation above
+sea level, the location of that point is known with accuracy within the limits
+of error involved in the surveying processes. In mapping large areas, such as
+a whole state or country, the irregularities in the curvature of the Earth must
+be considered. A network of precisely surveyed control points provides a
+skeleton to which other surveys may be tied to provide progressively finer
+networks of more closely space points. The resulting networks of points have
+many uses, including anchor points or bench marks for surveys of highways
+and other civil features. A major use of control points is to provide reference
+points to which the contour lines and other features of topographic maps are
+tied. Most topographic maps are made using photogrammetric techniques
+and aerial photographs.
+The Earth’s figure is that of a surface called the geoid, which over the
+Earth is the average sea level at each location; under the continents the geoid
+is an imaginary continuation of sea level. The geoid is not a uniform spheroid,
+however, because of the existence of irregularities in the attraction of gravity
+from place to place on the Earth’s surface. These irregularities of the geoid
+would bring about serious errors in the surveyed location of control points
+if astronomical methods, which involve use of the local horizon, were used
+solely in determining locations. Because of these irregularities, the reference
+surface used in geodesy is that of a regular mathematical surface, an ellipsoid
+of revolution that fits the geoid as closely as possible. This reference ellipsoid
+is below the geoid in some places and above it in the others. Over the oceans,
+mean sea level defines the geoid surface, but over the land areas the geoid is
+an imaginary sea-level surface.
+Today perturbations in the motions of artificial satellites are used to
+define the global geoid and gravity pattern with a high degree of accuracy.
+Geodetic satellites are positioned at a height of 700-800 kilometers above
+the Earth. Simultaneous range observations from several laser stations fix the
+position of a satellite, and radar altimeters measure directly its height over
+the oceans. Results show that the geoid is irregular; in places its surface is
+up to 100 metres higher than the ideal reference ellipsoid and elsewhere it is
+as much as 100 metres below it. The most likely explanation for this height
+4
+variation is that the gravity (and density) anomalies are related to mantle
+convection and temperature differences at depth. An important observation
+that confirms this interpretation is that there is a close correlation between the
+gravity anomalies and the surface expression of the Earth’s plate boundaries.
+This also strengthens the idea that the ultimate driving force of tectonic plate
+is a large-scale circulation of the mantle.
+A similar satellite ranging technique is also used to determine the drift
+rates of continents. Repeated measurements of laser light travel times between
+ground stations and satellites permit the relative movement of different control
+blocks to be calculated
